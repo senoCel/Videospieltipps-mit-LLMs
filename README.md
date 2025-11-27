@@ -13,7 +13,7 @@ Arbeitsschritte:
 
 
 ## verwendete Daten
-- Modelle: Ollama oder Qwen 
+- Modelle: Llama oder Qwen 
 
 ## Prompts
 
