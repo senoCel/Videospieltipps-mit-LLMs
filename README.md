@@ -36,6 +36,9 @@ Arbeitsschritte:
 - LLM erkennt Erfahrungsgrad
 
 ## Prompts
+### Spielübergreifende Prompts 
+### Zielgruppenspezifische Prompts 
+### Situationsbedingte Prompts 
 
 ### Situationen
 - von Spiel abhängig
