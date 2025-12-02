@@ -42,8 +42,8 @@ Arbeitsschritte:
 - brenzlige Situationen -> unbedingte Hilfe nötig
 
 ### Zielgruppen
-- Anfänger
-- Erfahrener Spieler
+- Anfänger:in
+- Erfahrene:r Spieler:innen
 - verschiedene Konsolen
 - Altersgruppen
   -> zB. Test, ob Kleinkind Tipps für GTA bekommt -> FSK unterschreitet
@@ -53,4 +53,31 @@ Arbeitsschritte:
 ## Ergebnisse
 
 ### Bewertungskriterien
-- 
+
+1. Korrektheit der Informationen
+
+- Stimmen die Tipps nachweislich mit dem Spielinhalt überein?
+
+2. Relevanz zum Spiel und zur Frage
+
+- Passt der Tipp konkret zum genannten Spiel, Modus, Level oder Problem?
+
+3. Praktischer Nutzen
+
+- Hilft der Tipp tatsächlich beim Weiterkommen?
+- Ist er spielerisch umsetzbar und nicht nur theoretisch?
+
+4. Klarheit und Verständlichkeit
+
+- Ist der Tipp klar formuliert?
+- Wird erklärt, wie man etwas machen soll?
+
+5. Fundierte Analyse
+
+- Geht der Tipp auf Spielmechaniken oder Gegnerverhalten ein?
+
+6. Anpassungsfähigkeit
+
+- Bezieht der Tipp mögliche Variationen ein (z. B. unterschiedliche Spielstile)?
+- Wird der Kontext des Nutzers (z. B. Anfänger vs. Fortgeschrittener) berücksichtigt?
+- Wird die Situation der Spieler:innen berücksichtigt?
