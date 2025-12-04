@@ -88,6 +88,7 @@ Arbeitsschritte:
 ### Spielübergreifende Prompts 
 ### Zielgruppenspezifische Prompts 
 ### Situationsbedingte Prompts 
+Link zu den Prompts: https://docs.google.com/document/d/1fMDqfHUw0yT0HTISEm5VabPPTOkJ8DH3F__uapGrnPY/edit?usp=sharing
 
 ### Situationen
 - von Spiel abhängig
@@ -108,28 +109,28 @@ Arbeitsschritte:
 
 1. Korrektheit der Informationen
 
-- Stimmen die Tipps nachweislich mit dem Spielinhalt überein?
+- *Stimmen die Tipps nachweislich mit dem Spielinhalt überein?*
 
 2. Relevanz zum Spiel und zur Frage
 
-- Passt der Tipp konkret zum genannten Spiel, Modus, Level oder Problem?
+- *Passt der Tipp konkret zum genannten Spiel, Modus, Level oder Problem?*
 
 3. Praktischer Nutzen
 
-- Hilft der Tipp tatsächlich beim Weiterkommen?
-- Ist er spielerisch umsetzbar und nicht nur theoretisch?
+- *Hilft der Tipp tatsächlich beim Weiterkommen?*
+- *Ist er spielerisch umsetzbar und nicht nur theoretisch?*
 
 4. Klarheit und Verständlichkeit
 
-- Ist der Tipp klar formuliert?
-- Wird erklärt, wie man etwas machen soll?
+- *Ist der Tipp klar formuliert?*
+- *Wird erklärt, wie man etwas machen soll?*
 
 5. Fundierte Analyse
 
-- Geht der Tipp auf Spielmechaniken oder Gegnerverhalten ein?
+- *Geht der Tipp auf Spielmechaniken oder Gegnerverhalten ein?*
 
 6. Anpassungsfähigkeit
 
-- Bezieht der Tipp mögliche Variationen ein (z. B. unterschiedliche Spielstile)?
-- Wird der Kontext des Nutzers (z. B. Anfänger vs. Fortgeschrittener) berücksichtigt?
-- Wird die Situation der Spieler:innen berücksichtigt?
+- *Bezieht der Tipp mögliche Variationen ein (z. B. unterschiedliche Spielstile)?*
+- *Wird der Kontext des Nutzers (z. B. Anfänger vs. Fortgeschrittener) berücksichtigt?*
+- *Wird die Situation der Spieler:innen berücksichtigt?*
