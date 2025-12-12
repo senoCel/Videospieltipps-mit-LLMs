@@ -120,6 +120,9 @@ Deepseek:
 Llama:
 ![Llama](OpenLLM_Example_Screenshot/llamaTest_AssassinsCreed_Example.png)
 
+### [Assasins Creed: Shadows](https://docs.google.com/document/d/1e80PbVGQ1_RhQTtlTwsRTSMBhmZd-nRYsdCztk5WZu4/edit?usp=sharing)
+### [Assasins Creed: Origins](https://docs.google.com/document/d/1v2reows3Iw11gAy1Z8Gv2Mdm9-62-73FYIq77fnmMHI/edit?usp=sharing)
+
 
 ### Bewertungskriterien
 
