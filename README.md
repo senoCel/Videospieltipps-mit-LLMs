@@ -1,4 +1,4 @@
-# OpenLLM-Project Tipps zu verschiedenen Videospielen
+# Tipps zu verschiedenen Videospielen mit LLMs im Rahmen des Seminars: "Open LLMs in der Praxis"
 Erstellt mit Python 3.14
 
 ## Beschreibung
