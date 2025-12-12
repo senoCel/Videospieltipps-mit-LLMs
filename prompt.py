@@ -16,7 +16,7 @@ messages = [
     },
     {
         "role": "user",
-        "content": "Beschreibe die Spielwelt von Assasins Creed Shadows und deren wichtigsten Merkmale.",
+        "content": "Ich spiele Assasins Creed Origins. Erkläre, wie ich meine Waffen verbessern kann und wo ich die besten Waffen finde.",
     },
 ]
 
@@ -25,7 +25,7 @@ for modell in modelle:
     stream = ollama.chat(
         model=modell,
         stream=True,
-        options={"temperature": 0.3, "seed": 0},
+        options={"temperature": 0.3, "seed": 0, "num_predict": 1024},
         messages=messages,
     )
     response = "".join([chunk["message"]["content"] for chunk in stream])
