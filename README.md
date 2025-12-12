@@ -49,11 +49,6 @@ Arbeitsschritte:
   - Auto-Rennspiel, in dem Rennen gefahren und Autos getuned werden können 
   - Inhalt variiert nach Spiel, Spielprinzip bleibt derselbe (Rennen gewinnen und Upgrades freischalten) 
 
-- CSGO
-  - Taktischer Egoshooter mit zwei Teams, die in Runden gegeneinander antreten 
-  - Teams: Terroristen und Antiterroreinheit 
-  - Verschiedene Modi: Bombenentschärfung oder Geiselbefreiung 
-
 
 ## Erwartungen
 - Passender Output relativ zum Spiel -> sinnvoll
