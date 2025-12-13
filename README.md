@@ -94,7 +94,9 @@ Llama:
 
 ### [Assasins Creed: Shadows](https://docs.google.com/document/d/1e80PbVGQ1_RhQTtlTwsRTSMBhmZd-nRYsdCztk5WZu4/edit?usp=sharing)
 ### [Assasins Creed: Origins](https://docs.google.com/document/d/1v2reows3Iw11gAy1Z8Gv2Mdm9-62-73FYIq77fnmMHI/edit?usp=sharing)
-
+### [EA Sports FC](https://docs.google.com/document/d/1ANVyMGvtGeO-5kBpLJdUSD3Qe_SjhZRSl7UB-A2lrw4/edit?usp=sharing)
+### [Minecraft](https://docs.google.com/document/d/1lOpCa4lBIFxe8CSeHl8F4CSCqrxO_9U-5eJLDIeNcJA/edit?usp=sharing)
+### [Need for Speed](https://docs.google.com/document/d/1HYGTNPjqqlFoAj4fOMfpBaTt6LOcKv65-2W8j55Smgs/edit?usp=sharing)
 
 ### Bewertungskriterien
 
